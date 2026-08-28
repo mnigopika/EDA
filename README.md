@@ -1,3 +1,5 @@
+<img width="880" height="559" alt="WhatsApp Image 2026-08-28 at 2 23 22 PM" src="https://github.com/user-attachments/assets/c692e523-2e0d-4bd9-8f0d-b9cf601ec0d9" />
+<img width="873" height="492" alt="WhatsApp Image 2026-08-28 at 2 23 22 PM (1)" src="https://github.com/user-attachments/assets/79d2a4a8-1b61-4376-a3aa-ecc08d9ebe7e" />
 # 📊 Superstore Sales Data Analysis
 
 > **A Python-based data analysis and visualization project using the Superstore dataset**
